@@ -1,4 +1,5 @@
-# RRWeek2
+# NOAA Storm Data Report
+## RRWeek2
 Reproducible Research week 2 peer - assignment
 
 Assignment details as written in the course page:  
