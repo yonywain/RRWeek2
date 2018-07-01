@@ -18,4 +18,4 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 3. Imputing missing values: dealing with missing values (NA) using several steps.  
 4. Are there differences in activity patterns between weekdays and weekends?  
 
-***Link to assignment solution:*** ![Reproducible Research week 2 assignment](PA1_template.md)
+***Link to assignment solution:*** [Reproducible Research week 2 assignment](PA1_template.md)
