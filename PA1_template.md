@@ -9,13 +9,6 @@ output: html_document
 ##Loading and preprocessing the data
 ```
 
-```
-## Error: <text>:8:0: unexpected end of input
-## 6: ##Loading and preprocessing the data
-## 7: 
-##   ^
-```
-
 ```r
 #Reading csv file
 rawcsv<-read.csv("activity.csv")
